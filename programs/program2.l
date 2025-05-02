@@ -1,3 +1,4 @@
+// 2. Design a LEX Code to count the number of lines, spaces, tab-meta characters, and other characters in the given Input pattern.
 %{
 #include <stdio.h>
 int lines = 0, spaces = 0, tabs = 0, others = 0;
