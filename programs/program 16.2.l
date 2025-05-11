@@ -1,4 +1,4 @@
-/*16.3: Design a DFA in LEX Code over Σ = {a, b} which contains set of all possible strings where every 
+/*16.2: Design a DFA in LEX Code over Σ = {a, b} which contains set of all possible strings where every 
 string ends with 00 or 11.*/
 %{
 #include <stdio.h>
